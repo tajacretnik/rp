@@ -9,6 +9,9 @@
 - *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
 - *Izreži* označeno v odložišče: Ctrl+X
 - *Prilepi* vsebino odložišča: Ctrl+V
+- *Razveljavi* zadnje dejanje: Ctrl+Z
+- *Išči* po datoteki: Ctrl+F
+- *Shrani* vsebino datoteke: Ctrl+S
 
 <!-- 2. nivojski razdelek -->
 ## Koda
@@ -27,7 +30,7 @@ Včasih pride prav značka ``` kbd ``` za tipke. Značko uporabimo takole:
 <!-- Spodnji seznam bo pripravil seznam nalog. Na GitHubu bodo lepo vidna potrditvena polja, 
      VSCode pa bo prikazal samo oglate oklepaje. Ko nalogo opravite, si to lahko zabeležite tako,
      da spremenite [ ] v [x]. -->
-- [ ] Izberite si še tri bližnjice, ki jih še ne uporabljate redno, in se jih naučite. 
+- [x] Izberite si še tri bližnjice, ki jih še ne uporabljate redno, in se jih naučite. 
       Dodajte jih v prvi razdelek tega dokumenta.
 
 <!-- 2. nivojski razdelek -->
