@@ -2,7 +2,11 @@
 *.pdf
 /latex-pregled
 /05-latex/test
-urnik.fdb_latexmk
 urnik.fls
-urnik.log
-urnik.synctex.gz
+*.log
+*.bbl
+*.fdb_latexmk
+*.synctex.gz
+*.bib
+*.fls
+*.toc
