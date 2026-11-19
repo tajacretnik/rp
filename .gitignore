@@ -1,5 +1,6 @@
 *.aux
 *.pdf
+!slika.pdf
 /latex-pregled
 /05-latex/test
 urnik.fls
@@ -10,3 +11,12 @@ urnik.fls
 *.bib
 *.fls
 *.toc
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
